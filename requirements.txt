@@ -4,5 +4,4 @@ torch
 yagmail
 pandas
 matplotlib
-opencv-python
 opencv-python-headless
